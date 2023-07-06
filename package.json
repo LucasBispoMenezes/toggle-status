@@ -1,0 +1,16 @@
+{
+  "name": "toggle-status",
+  "version": "0.0.1",
+  "description": "Automatiza a mudança do status de atividade em horários específicos. Personaliza mensagens de status e mantenha-se sempre atualizado. Fácil de usar e economize tempo.",
+  "main": "index.js",
+  "repository": "git@github.com:LucasBispoMenezes/toggle-status.git",
+  "author": "Lucas Bispo Menezes",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "node-cron": "^3.0.2"
+  }
+}
